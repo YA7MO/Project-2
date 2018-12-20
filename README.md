@@ -6,7 +6,7 @@
 
 ##### I Used (nodejs , HTML , bootstrap , npm packages );
 * Wireframes
-![image](Users/Downloads/Untitled Diagram.png)
+images_folder/Users/Downloads/Untitled Diagram.png
 
 * User Stories
 
